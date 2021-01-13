@@ -3,8 +3,8 @@
 ## Nurefşan DEMİR 010160620
 
 ### Inputs
-- Landsat-8 OLI Band 3 (Green Band)
-- Landsat-8 OLI Band 6 (SWIR1 Band)
+- Landsat-8 OLI Satellite Image Band 3 (Green Band)
+- Landsat-8 OLI Satellite Image Band 6 (SWIR1 Band)
 
 ### Index Used
 - Modified Normalized Difference Water Index (MNDWI)
