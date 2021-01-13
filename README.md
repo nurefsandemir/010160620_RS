@@ -1,4 +1,6 @@
-## 010160620_RS
+# Special Topics in Remote Sensing
+
+## Nurefşan DEMİR 010160620
 
 ### Inputs
 - Landsat-8 OLI Band 3 (Green Band)
@@ -12,3 +14,9 @@ MNDWI uses Green and SWIR bands for the enhancement of open water features. It a
 ### Outputs
 - mdwi_620
 
+
+
+
+
+
+![itü-logo.png](itü-logo.png)
