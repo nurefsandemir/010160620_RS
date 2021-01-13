@@ -2,6 +2,9 @@
 
 ## Nurefşan DEMİR 010160620
 
+### Subject
+Determining the existing water resources due to the need for water caused by global warming and climate change is extremely important for the steps to be taken to solve this issue. Waterbody detection was made with the MNDWI index around Sapanca Lake.
+
 ### Inputs
 - Landsat-8 OLI Satellite Image Band 3 (Green Band)
 - Landsat-8 OLI Satellite Image Band 6 (SWIR1 Band)
