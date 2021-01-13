@@ -6,6 +6,7 @@
 
 ### Index Used
 - Modified Normalized Difference Water Index (MNDWI)
+
 MNDWI uses Green and SWIR bands for the enhancement of open water features. It also diminishes built-up area features that are often correlated with open water in other indices.
 
 ### Outputs
