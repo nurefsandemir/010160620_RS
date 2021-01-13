@@ -14,7 +14,9 @@ MNDWI uses Green and SWIR bands for the enhancement of open water features. It a
 ### Outputs
 - mdwi_620
 
-
+### References
+- Xu, H. "Modification of Normalised Difference Water Index (NDWI) to Enhance Open Water Features in Remotely Sensed Imagery." International Journal of Remote Sensing 27, No. 14 (2006): 3025-3033." (ESRI, 2018)
+- https://www.hatarilabs.com/ih-en/ndvi-calculation-from-landsat8-images-with-python-3-and-rasterio-tutorial
 
 
 
